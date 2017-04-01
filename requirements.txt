@@ -1,7 +1,6 @@
 Django==1.10.6
 Mako==0.9.1
 MarkupSafe==0.18
-apturl==0.5.2ubuntu4
 chardet==2.2.1
 checkbox-ng==0.3
 checkbox-support==0.2
