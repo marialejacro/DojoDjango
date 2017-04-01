@@ -2,7 +2,6 @@ Django==1.10.6
 Mako==0.9.1
 MarkupSafe==0.18
 chardet==2.2.1
-checkbox-ng==0.3
 checkbox-support==0.2
 colorama==0.2.5
 command-not-found==0.3
