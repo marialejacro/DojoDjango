@@ -3,7 +3,6 @@ Mako==0.9.1
 MarkupSafe==0.18
 chardet==2.2.1
 colorama==0.2.5
-defer==1.0.6
 devscripts==2.14.1ubuntu0.1
 dj-database-url==0.4.2
 djangorestframework==3.6.2
