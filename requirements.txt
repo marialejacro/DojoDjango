@@ -3,7 +3,7 @@ Mako==0.9.1
 MarkupSafe==0.18
 chardet==2.2.1
 dj-database-url==0.4.2
-djangorestframework==3.6.2
+djangorestframework==3.9.1
 gunicorn==19.7.1
 html5lib==0.999
 httplib2==0.8
