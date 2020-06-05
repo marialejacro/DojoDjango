@@ -1,4 +1,4 @@
-Django==1.10.6
+Django==1.11.29
 Mako==0.9.1
 MarkupSafe==0.18
 chardet==2.2.1
