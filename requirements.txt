@@ -1,5 +1,5 @@
 Django==1.10.6
-Mako==0.9.1
+Mako==1.2.2
 MarkupSafe==0.18
 chardet==2.2.1
 dj-database-url==0.4.2
